@@ -1,0 +1,10 @@
+﻿Dong 1: Khoi tao
+Dong 2: Cau hinh
+Dong 3: Du lieu mau
+Dong 4: Du lieu mau
+Dong 5: Du lieu mau
+Dong 6: Du lieu mau
+Dong 7: Du lieu mau
+Dong 8: Du lieu mau
+Dong 9: Du lieu mau
+Dong 10: Ket thuc
