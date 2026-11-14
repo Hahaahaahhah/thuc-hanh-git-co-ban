@@ -7,4 +7,4 @@ Dong 6: Du lieu mau
 Dong 7: Du lieu mau
 Dong 8: Du lieu mau
 Dong 9: Du lieu mau
-Dong 10: Ket thuc
+Dong 10: Ket thuc [SUA]
